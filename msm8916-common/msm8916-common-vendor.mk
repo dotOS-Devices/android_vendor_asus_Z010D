@@ -105,10 +105,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar\
     vendor/asus/msm8916-common/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar\
     vendor/asus/msm8916-common/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar\
-    vendor/asus/msm8916-common/proprietary/lib64/hw/gps.msm8916.so:system/lib64/hw/gps.msm8916.so\
-    vendor/asus/msm8916-common/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so\
-    vendor/asus/msm8916-common/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so\
-    vendor/asus/msm8916-common/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so\
     vendor/asus/msm8916-common/proprietary/lib64/libOmxVdecHevc.so:system/lib64/libOmxVdecHevc.so\
     vendor/asus/msm8916-common/proprietary/lib/DataSet/ditSCidGen/msgchk.db:system/lib/DataSet/ditSCidGen/msgchk.db\
     vendor/asus/msm8916-common/proprietary/lib/DataSet/ispDB/ParameterDB.db:system/lib/DataSet/ispDB/ParameterDB.db\
@@ -226,7 +222,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libscale.so:system/vendor/lib64/libscale.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libsd_sdk_display.so:system/vendor/lib64/libsd_sdk_display.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib64/lib-sec-disp.so:system/vendor/lib64/lib-sec-disp.so\
-    vendor/asus/msm8916-common/proprietary/vendor/lib64/libsettings.so:system/vendor/lib64/libsettings.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libsmemlog.so:system/vendor/lib64/libsmemlog.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libssd.so:system/vendor/lib64/libssd.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so\
@@ -317,7 +312,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/msm8916-common/proprietary/vendor/lib/libsc-a2xx.so:system/vendor/lib/libsc-a2xx.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so\
-    vendor/asus/msm8916-common/proprietary/vendor/lib/libsettings.so:system/vendor/lib/libsettings.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib/libsmwrapper.so:system/vendor/lib/libsmwrapper.so\
     vendor/asus/msm8916-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so\
